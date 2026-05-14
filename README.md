@@ -142,6 +142,12 @@ Video tutorials, updates, and development content:
     <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
+  <a href="https://whatsapp.com/channel/0029VbCxQ1R6GcG8k9KLhs2b">
+    <img src="https://img.shields.io/badge/ADM%20Beta-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  </p>
+  
+  
 ---
 
 ## Security Notice
@@ -189,10 +195,34 @@ ADM Link Hub is being developed with a focus on creating modern, reliable, and s
 **Mission:**  
 Build software people genuinely enjoy using.
 
-<a href="https://whatsapp.com/channel/0029VbCxQ1R6GcG8k9KLhs2b">
-    <img src="https://img.shields.io/badge/ADM%20Beta-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a></p>
 
 <p align="center">
   <strong>Powered by iBT Labs</strong><br/>
+</p>
+
+
+---
+
+<p align="center">
+  <strong>ADM Link Hub</strong><br/>
+  © 2026 ADM. All Rights Reserved.<br/>
+  Powered by iBT Labs
+</p>
+
+---
+
+<p align="center">
+  <strong>ADM Link Hub</strong><br/>
+  © 2026 ADM. All Rights Reserved.<br/>
+  Unauthorized redistribution, resale, or reuse is prohibited.<br/>
+  Powered by iBT Labs
+</p>
+
+---
+
+<p align="center">
+  <strong>ADM Link Hub</strong><br/>
+  Copyright © 2026 ADM. All Rights Reserved.<br/>
+  Proprietary software under the ADM ecosystem.<br/>
+  Powered by iBT Labs
 </p>
