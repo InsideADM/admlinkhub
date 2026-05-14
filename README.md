@@ -146,6 +146,7 @@ Video tutorials, updates, and development content:
     <img src="https://img.shields.io/badge/ADM%20Beta-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   </p>
+
   
   
 ---
@@ -191,6 +192,7 @@ ADM Link Hub is being developed with a focus on creating modern, reliable, and s
     <img src="https://img.shields.io/badge/Telegram-@Iam_Bravo1-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
 
 **Mission:**  
 Build software people genuinely enjoy using.
