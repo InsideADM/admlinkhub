@@ -136,9 +136,10 @@ All development progress, commits, fixes, and major changes are documented throu
 
 Video tutorials, updates, and development content:
 
-📺 YouTube  
-https://www.youtube.com/@InsideADM
-
+<p align="center">
+  <a href="https://www.youtube.com/@InsideADM">
+    <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 ---
 
 ## Security Notice
@@ -156,8 +157,23 @@ ADM Beta Community
 Development updates, testing, changelogs, feedback, and contributors.
 
 ---
+## Meet the Developer
+
+**Bravo** — Founder & Lead Developer of the ADM ecosystem.
+
+Responsible for:
+
+- Product vision
+- Software architecture
+- Development direction
+- System design
+- Long-term innovation
+
+ADM Link Hub is being developed with a focus on creating modern, reliable, and scalable digital experiences.
+
+**Mission:**  
+Build software people genuinely enjoy using.
 
 <p align="center">
-  <strong>Built by Bravo</strong><br/>
-  Powered by iBT Labs
+  <strong Powered by iBT Labs</strong><br/>
 </p>
