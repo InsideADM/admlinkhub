@@ -179,9 +179,10 @@ Build software people genuinely enjoy using.
 <a href="https://t.me/Iam_Bravo1">
     <img src="https://img.shields.io/badge/Contact-Developer-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-
-  <img src="https://img.shields.io/badge/Beta%20Testing-Available-2ea44f?style=for-the-badge" />
-</p>
+  
+<a href="https://whatsapp.com/channel/0029VbCxQ1R6GcG8k9KLhs2b">
+    <img src="https://img.shields.io/badge/ADM%20Beta-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a></p>
 
 <p align="center">
   <strong Powered by iBT Labs</strong><br/>
