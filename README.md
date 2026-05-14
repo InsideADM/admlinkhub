@@ -87,8 +87,9 @@ Built for long-term growth and future expansion.
 
 ```txt
 Current Phase : Active Development
-Environment   : Internal Testing
+Environment   : Beta Testing Available
 Focus          : Pairing • Sessions • Reliability • Stability
+Status         : Continuous Improvements
 ```
 
 ---
@@ -136,7 +137,7 @@ All development progress, commits, fixes, and major changes are documented throu
 
 Video tutorials, updates, and development content:
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@InsideADM">
     <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -173,6 +174,14 @@ ADM Link Hub is being developed with a focus on creating modern, reliable, and s
 
 **Mission:**  
 Build software people genuinely enjoy using.
+
+<p align="left">
+<a href="https://t.me/Iam_Bravo1">
+    <img src="https://img.shields.io/badge/Contact-Developer-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Beta%20Testing-Available-2ea44f?style=for-the-badge" />
+</p>
 
 <p align="center">
   <strong Powered by iBT Labs</strong><br/>
