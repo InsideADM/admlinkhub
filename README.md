@@ -195,29 +195,6 @@ ADM Link Hub is being developed with a focus on creating modern, reliable, and s
 **Mission:**  
 Build software people genuinely enjoy using.
 
-
-<p align="center">
-  <strong>Powered by iBT Labs</strong><br/>
-</p>
-
-
----
-
-<p align="center">
-  <strong>ADM Link Hub</strong><br/>
-  © 2026 ADM. All Rights Reserved.<br/>
-  Powered by iBT Labs
-</p>
-
----
-
-<p align="center">
-  <strong>ADM Link Hub</strong><br/>
-  © 2026 ADM. All Rights Reserved.<br/>
-  Unauthorized redistribution, resale, or reuse is prohibited.<br/>
-  Powered by iBT Labs
-</p>
-
 ---
 
 <p align="center">
