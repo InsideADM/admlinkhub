@@ -159,28 +159,36 @@ ADM Beta Community
 Development updates, testing, changelogs, feedback, and contributors.
 
 ---
+
 ## Meet the Developer
 
 **Bravo** — Founder & Lead Developer of the ADM ecosystem.
 
 Responsible for:
 
-- Product vision
-- Software architecture
-- Development direction
-- System design
-- Long-term innovation
+- Product vision  
+- Software architecture  
+- Development direction  
+- System design  
+- Long-term innovation  
 
 ADM Link Hub is being developed with a focus on creating modern, reliable, and scalable digital experiences.
+
+### Developer Links
+
+<p align="left">
+  <a href="https://github.com/Hiddenuserug">
+    <img src="https://img.shields.io/badge/GitHub-Hiddenuserug-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/Iam_Bravo1">
+    <img src="https://img.shields.io/badge/Telegram-@Iam_Bravo1-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 **Mission:**  
 Build software people genuinely enjoy using.
 
-<p align="left">
-<a href="https://t.me/Iam_Bravo1">
-    <img src="https://img.shields.io/badge/Contact-Developer-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  
 <a href="https://whatsapp.com/channel/0029VbCxQ1R6GcG8k9KLhs2b">
     <img src="https://img.shields.io/badge/ADM%20Beta-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a></p>
