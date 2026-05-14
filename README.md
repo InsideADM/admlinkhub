@@ -141,6 +141,7 @@ Video tutorials, updates, and development content:
   <a href="https://www.youtube.com/@InsideADM">
     <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  
 ---
 
 ## Security Notice
@@ -185,5 +186,5 @@ Build software people genuinely enjoy using.
   </a></p>
 
 <p align="center">
-  <strong Powered by iBT Labs</strong><br/>
+  <strong>Powered by iBT Labs</strong><br/>
 </p>
